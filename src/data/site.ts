@@ -1,4 +1,4 @@
-export const site = {
+﻿export const site = {
     "domain":  "carroattrezzipadova.it",
     "template":  "spotlight",
     "description":  "Carroattrezzi a Padova e soccorso stradale a Padova: traino, recupero auto, assistenza moto e interventi rapidi in città e provincia.",
@@ -100,7 +100,7 @@ export const zones = [
     {
         "title":  "Carroattrezzi a Ponte San Nicolò",
         "name":  "Ponte San Nicolò",
-        "slug":  "ponte-san-nicolã²"
+        "slug":  "ponte-san-nicolÃ£Â²"
     },
     {
         "title":  "Carroattrezzi a Cadoneghe",
@@ -145,5 +145,6 @@ export const faqs = [
         "answer":  "Sì, il servizio di soccorso stradale è organizzato per richieste urgenti durante tutta la giornata, compresi orari serali, notturni e festivi."
     }
 ] as const
+
 
 
