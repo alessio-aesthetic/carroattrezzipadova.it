@@ -1,5 +1,6 @@
 export const site = {
     "domain":  "carroattrezzipadova.it",
+    "template":  "spotlight",
     "description":  "Carroattrezzi a Padova e soccorso stradale a Padova: traino, recupero auto, assistenza moto e interventi rapidi in città e provincia.",
     "tel":  "+390491803278",
     "city":  "Padova",
