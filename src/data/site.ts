@@ -1,4 +1,4 @@
-﻿export const site = {
+export const site = {
     "domain":  "carroattrezzipadova.it",
     "template":  "spotlight",
     "description":  "Carroattrezzi a Padova e soccorso stradale a Padova: traino, recupero auto, assistenza moto e interventi rapidi in città e provincia.",
