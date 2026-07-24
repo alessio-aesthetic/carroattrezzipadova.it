@@ -100,7 +100,7 @@ export const zones = [
     {
         "title":  "Carroattrezzi a Ponte San Nicolò",
         "name":  "Ponte San Nicolò",
-        "slug":  "ponte-san-nicolÃ£Â²"
+"slug":  "ponte-san-nicolo"
     },
     {
         "title":  "Carroattrezzi a Cadoneghe",
