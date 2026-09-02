@@ -12,7 +12,7 @@ export default function PadovaPremiumHome() {
   const callHref = 'tel:' + site.tel
 
   return (
-    <main className={styles.page}>
+    <main className={styles.page + ' flex-none w-full'}>
       <header className={styles.header}>
         <Link href="/" className={styles.brand} aria-label={site.name}>
           <img src="/images/brand-padova.png" alt={site.name} />
