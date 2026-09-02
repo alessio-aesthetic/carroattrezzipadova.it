@@ -1,5 +1,5 @@
-import CityHome from '@/components/CityHome'
+import PadovaPremiumHome from '@/components/PadovaPremiumHome'
 
 export default function Home() {
-  return <CityHome />
+  return <PadovaPremiumHome />
 }

@@ -5,7 +5,7 @@ export const site = {
     "tel":  "+390491803278",
     "city":  "Padova",
     "name":  "Carroattrezzi Padova",
-    "address":  "Via Uruguay, 12 - 35127 Padova PD",
+    "address":  "Via Bernardino Ramazzini, 2 - 35127 Padova PD",
     "title":  "Carroattrezzi a Padova 24H | Soccorso stradale",
     "phone":  "049 180 3278",
     "email":  "assistenza@carroattrezzipadova.it"
