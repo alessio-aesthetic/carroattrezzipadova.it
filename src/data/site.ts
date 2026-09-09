@@ -2,12 +2,12 @@ export const site = {
     "domain":  "carroattrezzipadova.it",
     "template":  "spotlight",
     "description":  "Carroattrezzi a Padova e soccorso stradale a Padova: traino, recupero auto, assistenza moto e interventi rapidi in città e provincia.",
-    "tel":  "+390491803278",
+    "tel":  "+3904441520847",
     "city":  "Padova",
     "name":  "Carroattrezzi Padova",
     "address":  "Via Bernardino Ramazzini, 2 - 35127 Padova PD",
     "title":  "Carroattrezzi a Padova 24H | Soccorso stradale",
-    "phone":  "049 180 3278",
+    "phone":  "04441520847",
     "email":  "assistenza@carroattrezzipadova.it"
 } as const
 
