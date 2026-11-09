@@ -5,7 +5,6 @@ export const site = {
     "tel":  "+3904441520847",
     "city":  "Padova",
     "name":  "Carroattrezzi Padova",
-    "address":  "Via Bernardino Ramazzini, 2 - 35127 Padova PD",
     "title":  "Carroattrezzi a Padova 24H | Soccorso stradale",
     "phone":  "04441520847",
     "email":  "assistenza@carroattrezzipadova.it"
