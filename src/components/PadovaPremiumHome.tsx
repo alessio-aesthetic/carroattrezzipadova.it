@@ -121,7 +121,7 @@ export default function PadovaPremiumHome() {
 
       <footer className={styles.footer}>
         <div><img src="/images/brand-padova.png" alt={site.name} /><p>Soccorso stradale e recupero veicoli a Padova e provincia.</p></div>
-        <div><b>Contatti</b><a href={callHref}>{site.phone}</a><a href={'mailto:' + site.email}>{site.email}</a><p>{site.address}</p></div>
+        <div><b>Contatti</b><a href={callHref}>{site.phone}</a><a href={'mailto:' + site.email}>{site.email}</a></div>
         <div><b>Servizi</b><Link href="/servizi/soccorso-stradale-24-ore/">Soccorso stradale</Link><Link href="/servizi/traino-auto/">Traino auto</Link><Link href="/contatti/">Contatti</Link></div>
       </footer>
     </main>
